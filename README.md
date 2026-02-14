@@ -14,9 +14,9 @@
 
 ### 📱 1. Authentication & Onboarding
 A seamless entry into your personal sanctuary using **Firebase Authentication**.
-| Welcome | Onboarding 1 | Onboarding 2 | Onboarding 3 | Login/Signup |
+| Welcome | Onboarding 1 | Onboarding 2 | Onboarding 3 | Login |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="screenshots/auth_welcome.jpeg" width="160"> | <img src="screenshots/auth_onboarding1.jpeg" width="160"> | <img src="screenshots/auth_onboarding2.jped" width="160"> | <img src="screenshots/auth_onboarding3.jpeg" width="160"> | <img src="screenshots/auth_login.jpeg" width="160"> |
+| <img src="screenshots/Authentication_&_Onboarding/auth_welcome.jpeg" width="160"> | <img src="screenshots/Authentication_&_Onboarding/auth_onboarding1.jpeg" width="160"> | <img src="screenshots/Authentication_&_Onboarding/auth_onboarding2.jpeg" width="160"> | <img src="screenshots/Authentication_&_Onboarding/auth_onboarding3.jpeg" width="160"> | <img src="screenshots/Authentication_&_Onboarding/auth_login.jpeg" width="160"> |
 
 ---
 
@@ -24,9 +24,7 @@ A seamless entry into your personal sanctuary using **Firebase Authentication**.
 The central hub for tracking streaks, notifications, and real-time progress.
 | Main Dashboard | Progress Stats | Streak System | Notifications |
 |:---:|:---:|:---:|:---:|
-| <img src="screenshots/dash_main.png" width="160"> | <img src="screenshots/dash_progress_stats.png" width="160"> | <img src="screenshots/dash_streaks.png" width="160"> | <img src="screenshots/dash_notifications.png" width="160"> |
-
-
+| <img src="screenshots/Dashboard_&_progress/dash_main.jpeg" width="160"> | <img src="screenshots/Dashboard_&_progress/dash_progress_stats.jpeg" width="160"> | <img src="screenshots/Dashboard_&_progress/dash_streaks.jpeg" width="160"> | <img src="screenshots/Dashboard_&_progress/dash_notifications.jpeg" width="160"> |
 
 ---
 
@@ -34,7 +32,7 @@ The central hub for tracking streaks, notifications, and real-time progress.
 Granular mood tracking and secure journaling for self-reflection.
 | Mood Selection | Mood History | Journal List | New Entry | Journal Detail |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="screenshots/mood_select.png" width="160"> | <img src="screenshots/mood_history.png" width="160"> | <img src="screenshots/journal_list.png" width="160"> | <img src="screenshots/journal_new_entry.png" width="160"> | <img src="screenshots/journal_detail.png" width="160"> |
+| <img src="screenshots/Wellness_tools/mood_select.png.jpeg" width="160"> | <img src="screenshots/Wellness_tools/mood_history.jpeg" width="160"> | <img src="screenshots/Wellness_tools/journal_list.jpeg" width="160"> | <img src="screenshots/Wellness_tools/journal_new_entry.jpeg" width="160"> | <img src="screenshots/Wellness_tools/journal_detail.jpeg" width="160"> |
 
 ---
 
@@ -42,7 +40,7 @@ Granular mood tracking and secure journaling for self-reflection.
 Daily inspiration and peaceful sounds to keep your mind at ease.
 | Activities Page | Games Hub | Peaceful Sounds | Daily Affirmations | Quote Card |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="screenshots/activities_page.png" width="160"> | <img src="screenshots/act_games.png" width="160"> | <img src="screenshots/act_peaceful_sounds.png" width="160"> | <img src="screenshots/affirmation_daily.png" width="160"> | <img src="screenshots/quote_card.png" width="160"> |
+| <img src="screenshots/Activities/activities_page.jpeg" width="160"> | <img src="screenshots/Activities/act_games.jpeg" width="160"> | <img src="screenshots/Activities/act_peaceful_sounds.jpeg" width="160"> | <img src="screenshots/Activities/affrimation_daily.jpeg" width="160"> | <img src="screenshots/Activities/quote_card.jpeg" width="160"> |
 
 ---
 
@@ -50,7 +48,7 @@ Daily inspiration and peaceful sounds to keep your mind at ease.
 Interactive and focus-driven games designed to lower cortisol levels.
 | Aqua Guardian | Zen Memory | Stress Fighter | Neon Odyssey | Color Harmony |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="screenshots/game_aqua_guardian.png" width="160"> | <img src="screenshots/game_zen_memory.png" width="160"> | <img src="screenshots/game_stress_fighter.png" width="160"> | <img src="screenshots/game_neon_odyssey.png" width="160"> | <img src="screenshots/game_color_harmony.png" width="160"> |
+| <img src="screenshots/zen_games/game_aqua_guardian.jpeg" width="160"> | <img src="screenshots/zen_games/game_zen_memory.jpeg" width="160"> | <img src="screenshots/zen_games/game_stress__fighter.jpeg" width="160"> | <img src="screenshots/zen_games/game_neon_odyssey.jpeg" width="160"> | <img src="screenshots/zen_games/game_color_harmony.jpeg" width="160"> |
 
 ---
 
@@ -58,7 +56,7 @@ Interactive and focus-driven games designed to lower cortisol levels.
 Managing your personal journey and application preferences.
 | Profile Main | Edit Profile | Settings | About MindEase | Help & Support |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="screenshots/profile_main.png" width="160"> | <img src="screenshots/profile_edit.png" width="160"> | <img src="screenshots/settings_general.png" width="160"> | <img src="screenshots/about_mindease.png" width="160"> | <img src="screenshots/help_support.png" width="160"> |
+| <img src="screenshots/Settings_&&profile/profile_main.jpeg" width="160"> | <img src="screenshots/Settings_&&profile/profile_edit.jpeg" width="160"> | <img src="screenshots/Settings_&&profile/settings_general.jpeg" width="160"> | <img src="screenshots/Settings_&&profile/about_mindease.jpeg" width="160"> | <img src="screenshots/Settings_&&profile/help_support.jpeg" width="160"> |
 
 ---
 
@@ -68,13 +66,7 @@ Managing your personal journey and application preferences.
 The app utilizes a robust Firebase backend to ensure data integrity and real-time updates.
 | Auth Console | Firestore DB | App Structure |
 |:---:|:---:|:---:|
-| <img src="screenshots/firebase_auth_console.png" width="250"> | <img src="screenshots/firestore_database.png" width="250"> | <img src="screenshots/app_structure.png" width="250"> |
-
-### **Core Stack**
-* **Frontend:** Flutter & Dart
-* **State Management:** Provider/Bloc for reactive UI updates.
-* **Database:** Cloud Firestore (NoSQL).
-* **Security:** Firebase Authentication & Firestore Security Rules.
+| <img src="screenshots/Firebase_&_Backend/firebase_auth_console.jpeg" width="250"> | <img src="screenshots/Firebase_&_Backend/firebase_database.jpeg" width="250"> | <img src="screenshots/Firebase_&_Backend/app_structure.jpeg" width="250"> |
 
 ---
 
