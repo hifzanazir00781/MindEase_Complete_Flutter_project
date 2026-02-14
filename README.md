@@ -16,7 +16,7 @@
 A seamless entry into your personal sanctuary using **Firebase Authentication**.
 | Welcome | Onboarding 1 | Onboarding 2 | Onboarding 3 | Login/Signup |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="screenshots/auth_welcome.png" width="160"> | <img src="screenshots/auth_onboarding1.png" width="160"> | <img src="screenshots/auth_onboarding2.png" width="160"> | <img src="screenshots/auth_onboarding3.png" width="160"> | <img src="screenshots/auth_login.png" width="160"> |
+| <img src="screenshots/auth_welcome.jpeg" width="160"> | <img src="screenshots/auth_onboarding1.jpeg" width="160"> | <img src="screenshots/auth_onboarding2.jped" width="160"> | <img src="screenshots/auth_onboarding3.jpeg" width="160"> | <img src="screenshots/auth_login.jpeg" width="160"> |
 
 ---
 
