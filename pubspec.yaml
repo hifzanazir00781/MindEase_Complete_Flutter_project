@@ -1,0 +1,56 @@
+name: mood_ease
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: "^0.13.1"
+  shared_preferences: ^2.2.2
+  easy_date_timeline: ^1.1.2
+  cupertino_icons: ^1.0.8
+  audioplayers: ^5.2.1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.2
+  intl: ^0.19.0
+  cached_network_image: ^3.4.1
+  flutter_local_notifications: ^17.0.0
+  timezone: ^0.9.4
+  url_launcher: ^6.3.1
+  provider: ^6.1.5+1
+  http: ^1.1.0
+  google_generative_ai: ^0.4.7  # Gemini AI ke liye
+  image_picker: ^1.0.7         # Camera aur Gallery ke liye
+  dash_chat_2: ^0.0.20
+  flutter_tts: ^4.0.2
+
+  # Firebase ke compatible versions (Inhein update kiya gaya hai)
+  firebase_core: ^3.10.1
+  cloud_firestore: ^5.6.2
+  firebase_auth: ^5.5.2
+  firebase_database: ^11.1.1
+  firebase_storage: ^12.4.10
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo.png"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.8
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/sounds/
