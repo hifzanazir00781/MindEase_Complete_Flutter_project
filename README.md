@@ -37,10 +37,10 @@ Granular mood tracking and secure journaling for self-reflection.
 ---
 
 ### 🌈 4. Activities & Affirmations
-Daily inspiration and peaceful sounds to keep your mind at ease.
-| Activities Page | Games Hub | Peaceful Sounds | Daily Affirmations | Quote Card |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="screenshots/Activities/activities_page.jpeg" width="160"> | <img src="screenshots/Activities/act_games.jpeg" width="160"> | <img src="screenshots/Activities/act_peaceful_sounds.jpeg" width="160"> | <img src="screenshots/Activities/affrimation_daily.jpeg" width="160"> | <img src="screenshots/Activities/quote_card.jpeg" width="160"> |
+Daily inspiration, meditation and peaceful sounds to keep your mind at ease.
+| Activities Page | Meditation  | Games Hub | Peaceful Sounds | Daily Affirmations | Quote Card |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="screenshots/Activities/activities_page.jpeg" width="160"> | <img src="screenshots/Activities/act_meditation.jpeg" width="160"> | <img src="screenshots/Activities/act_games.jpeg" width="160"> | <img src="screenshots/Activities/act_peaceful_sounds.jpeg" width="160"> | <img src="screenshots/Activities/affrimation_daily.jpeg" width="160"> | <img src="screenshots/Activities/quote_card.jpeg" width="160"> |
 
 ---
 
